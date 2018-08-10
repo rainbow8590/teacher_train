@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('./icomoon.eot?vd5nuy');
+  src:  url('./icomoon.eot?vd5nuy#iefix') format('embedded-opentype'),
+    url('./icomoon.ttf?vd5nuy') format('truetype'),
+    url('./icomoon.woff?vd5nuy') format('woff'),
+    url('./icomoon.svg?vd5nuy#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-left-arrow:before {
+  content: "\e900";
+}
+.icon-account:before {
+  content: "\e901";
+}
+.icon-answer:before {
+  content: "\e902";
+}
+.icon-avator:before {
+  content: "\e903";
+}
+.icon-down-arrow:before {
+  content: "\e904";
+}
+.icon-down-fill-arrow:before {
+  content: "\e905";
+}
+.icon-exam:before {
+  content: "\e906";
+}
+.icon-interview:before {
+  content: "\e907";
+}
+.icon-people-no:before {
+  content: "\e908";
+}
+.icon-people-ok:before {
+  content: "\e909";
+}
+.icon-postjob:before {
+  content: "\e90a";
+}
+.icon-prejob:before {
+  content: "\e90b";
+}
+.icon-task:before {
+  content: "\e90c";
+}
+.icon-up-arrow:before {
+  content: "\e90d";
+}
+.icon-warm:before {
+  content: "\e90e";
+}
+.icon-yes:before {
+  content: "\e90f";
+}
